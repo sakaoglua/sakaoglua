@@ -12,3 +12,5 @@ This is the place where I opensource stuff and break things 🤣
 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=sakaoglua&show_icons=true&theme=radical)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yasin-Yilmazz&show_icons=true&theme=dark&locale=en" alt="Yasin-Yilmazz" width="50%" /></p>
