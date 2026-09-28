@@ -16,6 +16,6 @@ I enjoy open-sourcing things—and occasionally breaking them 🤣
 
 ## GitHub stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sakaoglua&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sakaoglua)](https://git.io/streak-stats)
+
 ![Profile views](https://komarev.com/ghpvc/?username=sakaoglua)
