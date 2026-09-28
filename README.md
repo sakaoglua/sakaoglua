@@ -1,16 +1,21 @@
-Hi there 👋
+# Hi there 👋
 
-This is the place where I opensource stuff and break things 🤣
+I enjoy open-sourcing things—and occasionally breaking them 🤣
 
-- 🔭 I’m currently working on something cool 😉
-- 🌱 I’m currently learning somethings about Front-end and back-end...
-- 💬 Ask me about anything related to HTML/Java/.NET Framework/C#/SQL/Python...
-- 📫 How to reach me: https://www.linkedin.com/in/atakansakaoglu/
-- ⚡ Fun fact: I love reading books, helping to someones or somethings and I love animals.
-- 🥅 2025 Goals: Learn more about software...
+## A little about me
 
+- 🔭 Currently working on something cool 😉
+- 🌱 Learning more about frontend and backend development
+- 💬 Ask me about HTML, Java, .NET Framework, C#, SQL, or Python
+- 📫 Find me on [LinkedIn](https://www.linkedin.com/in/atakansakaoglu/)
+- ⚡ Fun fact: I love reading, helping others, and animals
 
+## What I'm aiming for
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=sakaoglua&show_icons=true&theme=radical)
+🎯 Keep learning and growing as a software developer.
 
-![](https://komarev.com/ghpvc/?username=sakaoglua) 
+## GitHub stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sakaoglua&show_icons=true&theme=radical)
+
+![Profile views](https://komarev.com/ghpvc/?username=sakaoglua)
